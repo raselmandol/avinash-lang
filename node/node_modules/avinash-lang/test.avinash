@@ -1,0 +1,41 @@
+// AvinashLang script: something.avinash
+
+// Declare some variables
+avinash ka variable ye day = "Sunday";
+avinash ka variable ye temperature = 25;
+avinash ka variable ye isSunny = sahiAvinash;
+avinash ka variable ye counter = 0;
+
+// Print a greeting
+boloAvinash ("Good Morning, aaj kaunsa din hai? - " + day);
+
+// Check weather conditions
+agarAvinash (temperature > 30) {
+  boloAvinash ("Gaarmi laag raha hai, AC chalao!");
+} nahitoAvinash (temperature < 20) {
+  boloAvinash ("Thaand lag raha hai Avinash, sweater pehno!");
+} varnaAvinash {
+  boloAvinash ("Aajka weather kaafi comfortable, Avinash!");
+}
+
+// Is it sunny?
+agarAvinash (isSunny == sahiAvinash) {
+  boloAvinash ("Dhoop ho raha hai, chaalo picnic kartehe?");
+} varnaAvinash {
+  boloAvinash ("Kaafi darkmode me hai sky, ghaar me raho!");
+}
+
+// Simple loop example
+boloAvinash ("Countdown shuru kar raha hu:");
+jabtakAvinash (counter < 5) {
+  boloAvinash(5 - counter + "...");
+  counter += 1;
+  agarAvinash (counter == 3) {
+    boloAvinash ("Arreh half way agaya!");
+    continueAvinash;
+  }
+}
+boloAvinash ("Khatam!");
+
+// End of script
+boloAvinash ("AvinashLang script khatam Hogaya. Goodbye!");
