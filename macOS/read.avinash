@@ -3,3 +3,7 @@
 //run this
 
 ln -s /path/to/your/avinash /usr/local/bin/avinash
+
+
+
+//then copy the whole avinash-lang folder to node_modules folder
