@@ -1,0 +1,9 @@
+#!/bin/bash
+
+basedir=$(dirname "$(realpath "$0")")
+
+if [ -x "$basedir/node" ]; then
+  exec "$basedir/node" "$basedir/node_modules/avinash-lang/cli.js" "$@"
+else 
+  exec node "$basedir/node_modules/avinash-lang/cli.js" "$@"
+fi
