@@ -37,9 +37,16 @@ cd avinash-lang
 ```
 npm install
 ```
+```
+npm install -g typescript
+```
 Then create a file with (.avinash) extension, write code and in terminal type:
 ```
-avinash ProgramName.avinash
+.\avinash ProgramName.avinash
+```
+or
+```
+avinash programName.avinash
 ```
 
 ## Usage 📝
@@ -52,6 +59,10 @@ boloAvinash ("Hello World!");
 
 ## Run 🚀
 
+```
+.\avinash programName.avinash
+```
+or
 ```
 avinash programName.avinash
 ```
