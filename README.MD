@@ -20,7 +20,7 @@ See the reference and tutorial table also.
 
 ## Installation 💻
 
-`make sure you have node installed`
+`make sure you have node installed. To run this on macOS follow macOS instructions.`
 
 ## Install typescript
 ```
