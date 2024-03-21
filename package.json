@@ -1,0 +1,34 @@
+{
+  "name": "avinash-lang",
+  "version": "0.1.6",
+  "description": "avinash-lang is a programming language, made for our friend Avinash, original source from BhaiLang",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --write ."
+  },
+  "bin": {
+    "avinash": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raselmandol/avinash-lang.git"
+  },
+  "keywords": [
+    "javascript",
+    "programming-language",
+    "parser",
+    "interpreter",
+    "avinash-lang"
+  ],
+  "author": "Md Rasel Mandol",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raselmandol/avinash-lang/issues"
+  },
+  "homepage": "https://github.com/raselmandol/avinash-lang",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.2.4"
+  }
+}
