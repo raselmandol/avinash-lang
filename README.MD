@@ -51,6 +51,12 @@ or
 ```
 avinash programName.avinash
 ```
+on macOS
+```
+`cd node`
+`chmod 755 avinash`
+`./avinash programName.avinash`
+```
 
 ## Usage 📝
 
@@ -68,6 +74,12 @@ boloAvinash ("Hello World!");
 or
 ```
 avinash programName.avinash
+```
+on macOS
+```
+`cd node`
+`chmod 755 avinash`
+`./avinash programName.avinash`
 ```
 
 ## Output 🖨️
