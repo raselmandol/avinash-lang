@@ -53,9 +53,9 @@ avinash programName.avinash
 ```
 on macOS
 ```
-`cd node`
-`chmod 755 avinash`
-`./avinash programName.avinash`
+cd node
+chmod 755 avinash
+./avinash programName.avinash
 ```
 
 ## Usage 📝
@@ -77,9 +77,9 @@ avinash programName.avinash
 ```
 on macOS
 ```
-`cd node`
-`chmod 755 avinash`
-`./avinash programName.avinash`
+cd node
+chmod 755 avinash
+./avinash programName.avinash
 ```
 
 ## Output 🖨️
