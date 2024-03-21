@@ -40,6 +40,9 @@ npm install
 ```
 npm install -g typescript
 ```
+```
+cd node
+```
 Then create a file with (.avinash) extension, write code and in terminal type:
 ```
 .\avinash ProgramName.avinash
