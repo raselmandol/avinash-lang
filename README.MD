@@ -6,7 +6,7 @@
 
 My friend ``Avinash Sing Rajput``, from Bihar, India is a very funny guy. He is always happy and laughing(if you know you know). `Joke` is his weapon to make everyone laugh.
 
-The main idea is from : bhai-lang https://github.com/DulLabs/bhai-lang 💡, so I started writing and changing the syntax list!
+The main idea is from : bhai-lang https://github.com/DulLabs/bhai-lang 💡 and mama-lang, so I started writing and changing the syntax list!
 To start with right now we just convert `.avinash` files to `.js` and then run them with `node` and so anything that you could do in javascript land you can do it in  avinash-lang.
 
 ## Future State 🚀
