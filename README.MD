@@ -1,5 +1,8 @@
 # AvinashLang !!
 
+[![GitHub release](https://img.shields.io/github/v/release/raselmandol/avinash-lang)](#) [![GitHub release date](https://img.shields.io/github/release-date/raselmandol/avinash-lang)](#) [![GitHub last commit](https://img.shields.io/github/last-commit/raselmandol/avinash-lang)](#)
+
+
 [AvinashLang Playground(will be updated soon)](https://github.com/raselmandol/avinash-lang) 
 
 [AvinashLang Npm Package(will be updated soon)](https://github.com/raselmandol/avinash-lang)
